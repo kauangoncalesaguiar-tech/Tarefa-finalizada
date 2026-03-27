@@ -44,11 +44,10 @@ let nome = 'Kauan';
 let mensagem = 'Olá (nome)'.replace('(nome)', nome);
 
 //Compra
-let produto = 'Arroz'
-let preço = 8.99
-let quantidade = 
-
-let mensagemcompra = 'Você comprou ' + quantidade + 'de ' + produto + 'por ' + preço; 
+let produto = 'Pacote 5 kg Arroz';
+let preço2 = 8.99;
+let quantidade = 2;
+let mensagemcompra = 'Você comprou ' + quantidade + ' ' + produto + ' por ' + preço2;
 
 
 
