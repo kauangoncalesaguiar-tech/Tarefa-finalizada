@@ -28,8 +28,8 @@ rl.question('Digite o primeiro número: ', (answer1) => {
         let ResultMult = 'Sua multiplicação deu ' + mult;
 
         // Divisão
-        let div = 100 / 4;
-        let ResultDiv = 'Sua divisão deu ' + div;
+        //let div = 100 / 4;
+        //let ResultDiv = 'Sua divisão deu ' + div;
 
         // Verificação
         let verif = 10 == 10 ? 'Números iguais' : 'Nomes diferente';
